@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://open.ruiz-tagle.com/';
+            window.location.href = 'https://scar-baute.pro/';
         }, 2000);
 
         return () => clearTimeout(timer);
